@@ -1,0 +1,11 @@
+MayocardialInfarction,HeartFailure,PeripheralVascularDisease,CerebrovascularDisease,Dementia,ChronicPulmonaryDisease,RheumaticDisease,PepticUlcerDisease,MildLiverDisease,DiabetesWithoutComplications,DiabetesWithComplications,HemiplegiaParaplegia,RenalDisease,Malignancy,ModerateSevereLiverDisease,MetastaticCancer,HIVAIDS,HypertensionUncomplicated,HypertensionComplicated,Coagulopathy,Obesity,WeightLoss,FluidElectrolyteDisorders,CharlsonScore,CharlsonScoreAge,Age,MRN
+No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,3,6,72,32
+No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,7,10,76,33
+No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,5,6,52,34
+No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,8,10,60,35
+No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,3,6,73,26
+No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,7,10,72,27
+Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,Yes,11,12,55,28
+No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,4,5,58,29
+No,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Yes,4,8,80,30
+No,Yes,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,6,9,78,31
